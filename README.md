@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Parkinson Disease Detection**
 
-- 🌱 I’m currently learning **Kotlin, MongoDB**
+- 🌱 I’m currently learning **Kotlin, MongoDB **
 
-- 💬 Ask me about **C++ , Data Structure , Machine learning**
+- 💬 Ask me about **C++ , Data Structure , Machine learning , Deep Learning**
 
 - 📫 How to reach me **MuditSharmaldh@gmail.com**
 
