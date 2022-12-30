@@ -1,11 +1,12 @@
 <img alt="Coding" src="https://marketplace.canva.com/EAE2cQaUHVA/1/0/1600w/canva-black-minimal-motivation-quote-linkedin-banner-HoRi-2buBWk.jpg">
+
 <h1 align="center">Hi 👋, I'm Mudit Sharma</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 
-- 🔭 I’m currently working on **Parkinson Disease Detection**
+- 🔭 I’m currently working on **EDA on ipl (Advance)**
 
-- 🌱 I’m currently learning **Kotlin, MongoDB **
+- 🌱 I’m currently learning **Ubuntu and Ternsorflow**
 
 - 💬 Ask me about **C++ , Data Structure , Machine learning , Deep Learning**
 
