@@ -1,4 +1,6 @@
-<img alt="Coding" src="https://marketplace.canva.com/EAE2cQaUHVA/1/0/1600w/canva-black-minimal-motivation-quote-linkedin-banner-HoRi-2buBWk.jpg">
+<p align="center">
+  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Mudit Sharma</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
