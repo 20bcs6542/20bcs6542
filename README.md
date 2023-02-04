@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
+</p>
+
+<p align="center">
   <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
 </p>
 
