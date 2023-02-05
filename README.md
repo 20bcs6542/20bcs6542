@@ -32,8 +32,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudit-sharma-30&theme=gotham&show_icons=true&locale=en&layout=compact" alt="mudit-sharma-30" width="300" height="300" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mudit-sharma-30&theme=gotham&show_icons=true&locale=en" alt="mudit-sharma-30" width="300" height="300"/></p>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31djbi6tvgz725rkewv2yrqxmzha&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=32ce27" /></div>  
 
-<p><img align="center"  src="https://spotify-github-profile.vercel.app/api/view?uid=31djbi6tvgz725rkewv2yrqxmzha&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=32ce27" /></p>  
 
 
 
