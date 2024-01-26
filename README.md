@@ -36,6 +36,9 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31djbi6tvgz725rkewv2yrqxmzha&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=32ce27" /></div>  
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+</div>
 
 
 
