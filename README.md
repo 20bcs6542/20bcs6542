@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Ubuntu and Ternsorflow**
+- 🌱 I’m currently learning **NLP and LLM(Large Language Model)**
 
 - 💬 Ask me about **C++ , Data Structure , Machine learning , Deep Learning**
 
